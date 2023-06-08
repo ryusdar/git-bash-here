@@ -1,0 +1,40 @@
+body{
+background-image: url(https://thumbs.dreamstime.com/z/el-paisaje-submarino-de-los-arrecifes-coral-amplio-to-en-oc%C3%A9ano-azul-profundo-con-peces-coloridos-tortuga-marina-silvestre-157141843.jpg)
+
+}
+
+
+h1{
+color: rosybrown;
+
+
+}
+.box{
+  background-color: red; 
+  margin:  30px;
+  padding: 10px;
+  width: 300px ;
+  height: 200px ;
+border: solid;
+position: relative;
+right:-450px;
+}
+.container{
+background-color: rgb(255, 255, 255);
+margin: auto;
+padding: 10px;
+width: 400px;
+height: 400px;
+border: solid saddlebrown;
+color: rgb(7, 3, 3);
+position: relative;
+}
+.column{
+ background-color: rgb(255, 255, 255);
+margin: auto;
+padding: 20px;
+width: 300px;
+height: 200px;
+border: solid rebeccapurple;
+color: black    ;
+}
