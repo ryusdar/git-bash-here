@@ -5,6 +5,7 @@
 @keyframes bounce {
     0%, 100% {
         transform: translateX(0);
+        color: coral;
     }
     50% {
         transform: translateX(500px);
