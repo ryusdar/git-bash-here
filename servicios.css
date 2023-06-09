@@ -1,9 +1,9 @@
 #titulo {
-    animation: bounce 1s infinite;
+    animation: bounce 3s infinite;
 }
 
 @keyframes bounce {
-    0%, 150% {
+    0%, 100% {
         transform: translateX(0);
         color: coral;
     }
