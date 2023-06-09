@@ -8,7 +8,7 @@
         color: coral;
     }
     50% {
-        transform: translateX(500px);
+        transform: translateX(100%);
     }
 }
 
