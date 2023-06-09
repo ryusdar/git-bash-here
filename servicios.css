@@ -1,5 +1,5 @@
 #titulo {
-    animation: bounce 3s infinite;
+    animation: bounce 2s infinite;
 }
 
 @keyframes bounce {
