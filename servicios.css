@@ -3,11 +3,11 @@
 }
 
 @keyframes bounce {
-    0%, 50% {
+    0%, 150% {
         transform: translateX(0);
         color: coral;
     }
-    25% {
+    50% {
         transform: translateX(500px);
     }
 }
