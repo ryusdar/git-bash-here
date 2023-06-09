@@ -1,5 +1,7 @@
 #titulo {
     animation: fade-bounce-color 4s infinite;
+    text-align: center;
+
   }
   
   @keyframes fade-bounce-color {
