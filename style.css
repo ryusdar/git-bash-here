@@ -118,7 +118,7 @@ nav a:hover {
   color: #1316b3;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 381px) {
   header {
     background-color: red;
   }
@@ -171,7 +171,7 @@ a {
   font-size: 20px;
 }
 
-@media (max-width: 381px) {
+@media (max-width: 768px) {
   .column {
     flex: 100%;
   }
@@ -204,15 +204,18 @@ img {
   height: 250px;
   width: 500px;
 }
+
 .agrandar-imagen {
-  width: 200px; /* Establece un ancho inicial */
-  transition: width 0.3s ease; /* Agrega una transición suave */
+  width: 200px;
+  transition: width 0.3s ease;
   height: 100px;
 }
+
 .agrandar-imagen:hover {
-  width: 500px; /* Ancho aumentado en estado de hover */
+  width: 500px;
   height: 200px;
 }
+
 header.show-menu {
   height: 100vh;
 }
