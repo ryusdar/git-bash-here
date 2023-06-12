@@ -118,7 +118,7 @@ nav a:hover {
   color: #1316b3;
 }
 
-@media (max-width: 381px) {
+@media (max-width: 350px) {
   header {
     background-color: red;
   }
@@ -171,7 +171,7 @@ a {
   font-size: 20px;
 }
 
-@media (max-width: 381px) {
+@media (max-width: 350px) {
   .column {
     flex: 100%;
   }
